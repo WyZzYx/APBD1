@@ -1,2 +1,2 @@
-John Smith 
-John.smith@mail.com
+Alice Brown
+Alice.brown@mail.com
